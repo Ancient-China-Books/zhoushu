@@ -78,6 +78,9 @@
     <item id="id48" href="Text/1751.html" media-type="application/xhtml+xml"/>
     <item id="id49" href="Text/1752.html" media-type="application/xhtml+xml"/>
     <item id="id50" href="Text/1753.html" media-type="application/xhtml+xml"/>
+    <item id="i1745" href="Images/1745.png" media-type="image/png"/>
+    <item id="i1745-1" href="Images/1745-1.png" media-type="image/png"/>
+    <item id="i1745-2" href="Images/1745-2.png" media-type="image/png"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="page_css" href="Styles/page_styles.css" media-type="text/css"/>
     <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
